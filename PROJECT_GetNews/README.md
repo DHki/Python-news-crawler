@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <네이버 실시간 검색어가 사라져서 생긴 일>
 ======================================================
 세상이 어떻게 돌아가는지 모르겠습니다...
@@ -25,3 +26,11 @@ Disallow가 되어있다면, 파이썬으로 접근 불가.
 >txt파일이 생기면 그걸 보고서는 뉴스 들어가는게 상당히(?) 귀찮았었음  
 >그래서 새로운 버전을 만들었음.. 이번에는 자주 쓰기를...ㅎㅎ  
 >version_2.0파일 안에 넣어놨습니다
+=======
+  Python  
+  ====================  
+    
+  ### Several mini projects with python language.  
+    - Theses projects may be source for my side projects...  
+    - can interact with my database...
+>>>>>>> 1333dac04f7b84f26e7b93ebb3fb01a6664c4b4b
