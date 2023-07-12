@@ -26,11 +26,7 @@ Disallow가 되어있다면, 파이썬으로 접근 불가.
 >txt파일이 생기면 그걸 보고서는 뉴스 들어가는게 상당히(?) 귀찮았었음  
 >그래서 새로운 버전을 만들었음.. 이번에는 자주 쓰기를...ㅎㅎ  
 >version_2.0파일 안에 넣어놨습니다
-=======
-  Python  
-  ====================  
-    
-  ### Several mini projects with python language.  
-    - Theses projects may be source for my side projects...  
-    - can interact with my database...
->>>>>>> 1333dac04f7b84f26e7b93ebb3fb01a6664c4b4b
+
+
+
+### 만들었던 당시에는 조금 썼었는데, 군대를 가게 되면서 안쓰기 시작했고, 네이버 뉴스의 HTML 형식도 달라져서 사용할 수 없게 되었습니다.
